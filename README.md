@@ -1,2 +1,1 @@
-# Dinamica
-segurança
+
